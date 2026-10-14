@@ -1,0 +1,6 @@
+{
+  "image": "debian:stable",
+  "features": {
+    "ghcr.io/devcontainers/features/sshd:1": {}
+  }
+}
